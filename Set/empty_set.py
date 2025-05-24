@@ -31,7 +31,7 @@ s.add(("everyone"))
 print(f'.5: {s}')
 print()
 
-s.add(("little"))
+s.add("little")
 print(f'.6: {s}')
 
 
